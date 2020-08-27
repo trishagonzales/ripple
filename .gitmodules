@@ -1,0 +1,6 @@
+[submodule "ripple-frontend"]
+	path = ripple-frontend
+	url = https://github.com/trishagonzales/ripple-frontend
+[submodule "ripple-backend"]
+	path = ripple-backend
+	url = https://github.com/trishagonzales/ripple-backend
